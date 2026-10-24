@@ -6,3 +6,4 @@ experimental/*
 docs/build
 docs/make.bat
 docs/Makefile
+uv.lock
